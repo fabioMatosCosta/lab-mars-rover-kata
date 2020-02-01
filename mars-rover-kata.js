@@ -89,6 +89,7 @@ function turnLeft(rover){
       }
   }
   
+  // move backward:
   function moveBackward(rover){
     
     console.log("moveBackward was called");
